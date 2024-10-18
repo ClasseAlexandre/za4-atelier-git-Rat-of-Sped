@@ -1,2 +1,2 @@
-Ich lebe git
+J'aime git
 Ceci est une modification faite sur GitHub.
